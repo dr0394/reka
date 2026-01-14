@@ -1,0 +1,26 @@
+{
+  "name": "REKA Bodensysteme",
+  "short_name": "REKA",
+  "description": "Premium Industrieböden & Epoxidharzbeschichtungen",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#003A70",
+  "theme_color": "#003A70",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

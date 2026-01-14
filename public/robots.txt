@@ -1,0 +1,25 @@
+# robots.txt für REKA Bodensysteme
+
+# Alle Bots erlauben
+User-agent: *
+Allow: /
+
+# Wichtige Seiten priorisieren
+Allow: /impressum
+Allow: /datenschutz
+
+# Sitemap-Speicherort
+Sitemap: https://www.reka-bodensysteme.de/sitemap.xml
+
+# Crawl-Verzögerung (optional, für Server-Schonung)
+Crawl-delay: 1
+
+# Google-spezifische Einstellungen
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing-spezifische Einstellungen
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
